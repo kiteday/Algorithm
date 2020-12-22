@@ -9,4 +9,4 @@
 
 ## 가입 신청
 [네이버 폼](http://naver.me/xWNjc6Os) 작성
-> 질문/문의: [여기](https://github.com/SMU-Algorithm-Study/Question-list/discussions)
+> 질문/문의: [여기](https://github.com/SMU-Algorithm-Study/Question-list/discussions)로  
