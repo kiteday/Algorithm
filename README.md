@@ -20,7 +20,7 @@
 화~토|다른사람 문제에 review
 2. 문제는 **주당 3개**, 백준 알고리즘 / 프로그래머스 등에서 가져오기(주차 별로 **한 사람이** 가져오기)
 3. 난이도 관련하여 의견이 있을 경우 [여기](https://github.com/SMU-Algorithm-Study/Question-list/discussions/categories/%EB%AC%B8%EC%A0%9C-%EB%82%9C%EC%9D%B4%EB%8F%84-%EA%B4%80%EB%A0%A8)에 적기
-4. 문제는 풀어서 본 레포지토리를 fork한 자신의 GitHub에 올린 후, pull request 하기 **Merge는 하지 말것!**
+4. 문제는 풀어서 본 레포지토리를 fork한 자신의 GitHub에 올린 후, pull request 하기     **`<< Merge는 하지 말것!`**
 5. review 요청이 왔을 때 다른 사람문제에 대해 review 남기기(2일 내로)
 6. merge해서 최종본 완성(merge는 review 1개 이상 받았을 때 하기)
 7. 기간은 월~금 알고리즘 문제 풀고, 화~토는 review기간, 문제는 일요일까지 올려두기
