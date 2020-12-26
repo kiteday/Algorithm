@@ -32,6 +32,10 @@
 6. merge해서 최종본 완성(merge는 review 1개 이상 받았을 때 하기)
 
 ---
-## 사용 방법
+## 기본 사용 방법
 1. 가입  승인이 나면 [여기](https://github.com/orgs/SMU-Algorithm-Study/people)를 눌러서 `Private`->`Public`으로 바꿔주세요  
 2. 
+
+---
+## 리뷰 하는 법
+
