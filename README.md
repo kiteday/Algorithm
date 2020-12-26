@@ -33,3 +33,5 @@
 
 ---
 ## 사용 방법
+1. 가입  승인이 나면 [여기](https://github.com/orgs/SMU-Algorithm-Study/people)를 눌러서 `Private`->`Public`으로 바꿔주세요  
+2. 
