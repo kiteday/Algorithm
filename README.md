@@ -37,11 +37,16 @@
 1. 가입  승인이 나면 [여기](https://github.com/orgs/SMU-Algorithm-Study/people)를 눌러서 자신의 프로필을 `Private`->`Public`으로 바꿔주세요  
 2. [Algorithm](https://github.com/SMU-Algorithm-Study/Algorithm) Repository를 Fork 해 주세요
 3. 파일명: **`{문제 번호}_{문제 이름}_{github id}`** 으로 설정  
-4. 이후 파일 업로드시, **`내 깃허브에 Fork된 Repository`** 에 **`{주차별 폴더 이름}`** 업로드 해주시면 됩니다.
+4. 3문제를 모두 푼 이후(푼 데까지 푼 이후), **`내 깃허브에 Fork된 Repository`** 에 **`{주차별 폴더 이름}`** 업로드 해주시면 됩니다.
 > ex) 12주  
 ![image](https://user-images.githubusercontent.com/45448731/103146083-b8b5a080-4787-11eb-8686-470579b04a16.png)
-5. 업로드 이후 ![image](https://user-images.githubusercontent.com/45448731/103146105-eef32000-4787-11eb-968c-54b5284cda26.png) 클릭
- 
+5. 업로드 이후 ![image](https://user-images.githubusercontent.com/45448731/103146105-eef32000-4787-11eb-968c-54b5284cda26.png) 클릭, ![image](https://user-images.githubusercontent.com/45448731/103146113-0e8a4880-4788-11eb-9d56-65956df531b8.png) 클릭, ![image](https://user-images.githubusercontent.com/45448731/103146126-1c3fce00-4788-11eb-98a0-54d0adedb34a.png) 클릭  
+6. Title에 **`week{주차}_{github id}`** 작성  
+7. 오른쪽에 `Reviewers` 누른 후 
+나와 같은 언어를 사용하는 모든 사람 선택  
+![image](https://user-images.githubusercontent.com/45448731/103146146-69bc3b00-4788-11eb-89a5-b0bc703cb8d8.png)  
+8. 오른쪽에 `Labels`선택 후 내가 사용하는 언어 선택  
+9. ![image](https://user-images.githubusercontent.com/45448731/103146172-ee0ebe00-4788-11eb-99dc-83238ec02e2a.png) 클릭
 
 ---
 ## 💻 코드 리뷰 하는 법
