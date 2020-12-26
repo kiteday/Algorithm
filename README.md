@@ -33,11 +33,11 @@
 6. merge해서 최종본 완성(merge는 review 1개 이상 받았을 때 하기)
 
 ---
-## 기본 사용 방법
+## 🎇 기본 사용 방법
 1. 가입  승인이 나면 [여기](https://github.com/orgs/SMU-Algorithm-Study/people)를 눌러서 자신의 프로필을 `Private`->`Public`으로 바꿔주세요  
 2. [Algorithm](https://github.com/SMU-Algorithm-Study/Algorithm) Repository를 Fork 해 주세요
 3. 
 
 ---
-## 코드 리뷰 하는 법
+## 💻 코드 리뷰 하는 법
 
