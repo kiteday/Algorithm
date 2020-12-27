@@ -29,6 +29,7 @@
 화~토|다른사람 문제에 review
 
 2. 문제는 **주당 3개**, 백준 알고리즘 / 프로그래머스 등에서 가져오기(주차 별로 **한 사람이** 가져오기)
+> 3개를 풀면 좋지만 여건이 안되면 풀 수 있는 만큼만 풀고 pull request 할것!
 
 3. 난이도 관련하여 의견이 있을 경우 [여기](https://github.com/SMU-Algorithm-Study/Question-list/discussions/categories/%EB%AC%B8%EC%A0%9C-%EB%82%9C%EC%9D%B4%EB%8F%84-%EA%B4%80%EB%A0%A8)에 적기
 
