@@ -77,6 +77,9 @@
 **4.** 파란 버튼을 누른 후 자유롭게 리뷰 작성
 `Add single comment`를 누를 경우 그 줄에 대하여 리뷰 작성 가능, 여러 줄에 대해서 리뷰 작성할 경우 `Start review` 누르고, 그 이후에 것들에 대해서는 `Add review comment`를 누름. 그리고 오른쪽 위에 있는 `Finish your review`를 누르고 `Submit review`를 누름.  
 
+**5.** 여러줄 리뷰 달 때는 +버튼 누르고 아래로 드래그 하면 여러 줄 선택 가능
+![image](https://user-images.githubusercontent.com/45448731/103166220-3d292180-4863-11eb-8d47-7c7ef29b0bcb.png)
+
 ---
 ## 🙆‍♀️ 코드 리뷰 확인법
 **1.** 확인 후 `Resolve conversation` 누르기  
