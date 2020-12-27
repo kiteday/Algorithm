@@ -41,44 +41,44 @@
 
 ---
 ## 🎇 기본 사용 방법
-1. 가입  승인이 나면 [여기](https://github.com/orgs/SMU-Algorithm-Study/people)를 눌러서 자신의 프로필을 `Private`->`Public`으로 바꿔주세요  
+**1.** 가입  승인이 나면 [여기](https://github.com/orgs/SMU-Algorithm-Study/people)를 눌러서 자신의 프로필을 `Private`->`Public`으로 바꿔주세요  
 
-2. [Algorithm](https://github.com/SMU-Algorithm-Study/Algorithm) Repository를 Fork 해 주세요
+**2.** [Algorithm](https://github.com/SMU-Algorithm-Study/Algorithm) Repository를 Fork 해 주세요
 
-3. 파일명: **`{문제 번호}_{문제 이름}_{github id}`** 으로 설정  
+**3.** 파일명: **`{문제 번호}_{문제 이름}_{github id}`** 으로 설정  
 
-4. 3문제를 모두 푼 이후(푼 데까지 푼 이후), **`내 깃허브에 Fork된 Repository`** 에 **`{주차별 폴더 이름}`** 업로드 해주시면 됩니다.
+**4.** 3문제를 모두 푼 이후(푼 데까지 푼 이후), **`내 깃허브에 Fork된 Repository`** 에 **`{주차별 폴더 이름}`** 업로드 해주시면 됩니다.
 > ex) 12주  
 ![image](https://user-images.githubusercontent.com/45448731/103146083-b8b5a080-4787-11eb-8686-470579b04a16.png)
 
-5. 업로드 이후 ![image](https://user-images.githubusercontent.com/45448731/103146105-eef32000-4787-11eb-968c-54b5284cda26.png) 클릭, ![image](https://user-images.githubusercontent.com/45448731/103146113-0e8a4880-4788-11eb-9d56-65956df531b8.png) 클릭, ![image](https://user-images.githubusercontent.com/45448731/103146126-1c3fce00-4788-11eb-98a0-54d0adedb34a.png) 클릭  
+**5.** 업로드 이후 ![image](https://user-images.githubusercontent.com/45448731/103146105-eef32000-4787-11eb-968c-54b5284cda26.png) 클릭, ![image](https://user-images.githubusercontent.com/45448731/103146113-0e8a4880-4788-11eb-9d56-65956df531b8.png) 클릭, ![image](https://user-images.githubusercontent.com/45448731/103146126-1c3fce00-4788-11eb-98a0-54d0adedb34a.png) 클릭  
 
-6. Title에 **`week{주차}_{github id}`** 작성  
+**6.** Title에 **`week{주차}_{github id}`** 작성  
 
-7. 오른쪽에 `Reviewers` 누른 후 
+**7.** 오른쪽에 `Reviewers` 누른 후 
 나와 같은 언어를 사용하는 모든 사람 선택  
 ![image](https://user-images.githubusercontent.com/45448731/103146146-69bc3b00-4788-11eb-89a5-b0bc703cb8d8.png)  
 
-8. 오른쪽에 `Labels`선택 후 내가 사용하는 언어 선택  
+**8.** 오른쪽에 `Labels`선택 후 내가 사용하는 언어 선택  
 
-9. ![image](https://user-images.githubusercontent.com/45448731/103146172-ee0ebe00-4788-11eb-99dc-83238ec02e2a.png) 클릭
+**9.** ![image](https://user-images.githubusercontent.com/45448731/103146172-ee0ebe00-4788-11eb-99dc-83238ec02e2a.png) 클릭
 
 
 ---
 ## 💻 코드 리뷰 하는 법
-0. 익숙하지 않은 사람은 [여기](https://github.com/SMU-Algorithm-Study/review-test) 레포지토리에서 연습 가능합니다!  
+**0.** 익숙하지 않은 사람은 [여기](https://github.com/SMU-Algorithm-Study/review-test) 레포지토리에서 연습 가능합니다!  
 
-1. 나에게 리뷰 요청이 온 것은 오른쪽 최상단의 ![image](https://user-images.githubusercontent.com/45448731/103146197-4776ed00-4789-11eb-99dd-f3300201123a.png) 버튼에서 확인 가능함  
+**1.** 나에게 리뷰 요청이 온 것은 오른쪽 최상단의 ![image](https://user-images.githubusercontent.com/45448731/103146197-4776ed00-4789-11eb-99dd-f3300201123a.png) 버튼에서 확인 가능함  
 
-2. `review requested` 온 것을 눌러서 Commits 클릭 눌러서 커밋에 들어감
+**2.** `review requested` 온 것을 눌러서 Commits 클릭 눌러서 커밋에 들어감
 
-3. 코드에 마우스를 가져다대면 ![image](https://user-images.githubusercontent.com/45448731/103146239-a6d4fd00-4789-11eb-93ba-5bc17f1d6665.png) << 파란 버튼을 확인 가능함  
+**3.** 코드에 마우스를 가져다대면 ![image](https://user-images.githubusercontent.com/45448731/103146239-a6d4fd00-4789-11eb-93ba-5bc17f1d6665.png) << 파란 버튼을 확인 가능함  
 
-4. 파란 버튼을 누른 후 자유롭게 리뷰 작성
+**4.** 파란 버튼을 누른 후 자유롭게 리뷰 작성
 `Add single comment`를 누를 경우 그 줄에 대하여 리뷰 작성 가능, 여러 줄에 대해서 리뷰 작성할 경우 `Start review` 누르고, 그 이후에 것들에 대해서는 `Add review comment`를 누름. 그리고 오른쪽 위에 있는 `Finish your review`를 누르고 `Submit review`를 누름.  
 
 ---
 ## 🙆‍♀️ 코드 리뷰 확인법
-1. 확인 후 `Resolve conversation` 누르기  
+**1.** 확인 후 `Resolve conversation` 누르기  
 
-2. 리뷰가 하나 이상 달렸을 때 더이상 리뷰를 받고 싶지 않을 경우 ![image](https://user-images.githubusercontent.com/45448731/103146310-9a9d6f80-478a-11eb-8829-d2f14fd679f7.png) 클릭  
+**2.** 리뷰가 하나 이상 달렸을 때 더이상 리뷰를 받고 싶지 않을 경우 ![image](https://user-images.githubusercontent.com/45448731/103146310-9a9d6f80-478a-11eb-8829-d2f14fd679f7.png) 클릭  
