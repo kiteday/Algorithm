@@ -102,5 +102,5 @@
 **2.** 리뷰가 하나 이상 달렸을 때 더이상 리뷰를 받고 싶지 않을 경우 ![image](https://user-images.githubusercontent.com/45448731/103146310-9a9d6f80-478a-11eb-8829-d2f14fd679f7.png) 클릭  
 
 **3.** 코드 수정 요청 시 수정된 것을 받아들이고 싶으면  
-![image](https://user-images.githubusercontent.com/45448731/103166526-2e903980-4866-11eb-8ec2-899b8249ca14.png)
+![image](https://user-images.githubusercontent.com/45448731/103166526-2e903980-4866-11eb-8ec2-899b8249ca14.png)  
 `Commit suggestion`을 누르면 상대방이 수정해준 것으로 바뀌어 파일이 올라감  
