@@ -3,10 +3,7 @@ bag=sys.stdin.readline
 n,k=map(int, bag().split()) #n: 물품의 수, k:준서가 버틸 수 있는 무게
 w_list=[] # 물건 배열
 v_list=[] # 가치 배열
-cnt=0
-
 for i in range(n):
-    cnt+=1
     w,v=map(int, bag().split()) #w: 각 물건의 무게, v: 해당 물건의 가치
     w_list.append(w)
     v_list.append(v)
