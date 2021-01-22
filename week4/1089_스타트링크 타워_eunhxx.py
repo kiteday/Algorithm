@@ -42,8 +42,7 @@ def MarkToNum(idx, k):
         for j in range(3):
             if temp[i][j+idx] == '#':
                 board.add(3*i+j)
-                
-    # 모두 '.'만 있는 경우 모든 층을 표현할 수 있으므로 따로 계산            
+                           
     for i in range(10):
         #부분집합 확인 후, 맞으면 pos(가능한 층번호 저장할 리스트)에 넣음
         if board.issubset(numset[i]) == True:
