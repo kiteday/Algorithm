@@ -51,13 +51,13 @@ def checknum(num):
 #-------------------------------------
 ## 한 층씩 나누어서 확인
 ablenum=[] #가능한 숫자 배열 list, [[1번째숫자 가능한숫자],[2~],..[n~]] 이런형태
-n3=0 #숫자의 가로길이는 3
+nh=0 #숫자의 가로길이는 3
 
 for i in range(n):
     num=[]
     for j in range(5): #숫자의 세로길이는 5
         num_hor=[] #가로
-        for k in range(n3,n3+3):
+        for k in range(nh,nh+3):
             #print(tower[j][k],end='')
             num_hor.append(tower[j][k])
         num.append(num_hor)
@@ -71,7 +71,7 @@ for i in range(n):
         sys.exit() #종료
         
     ablenum.append(able) #이번 숫자가 가능한 숫자들의 집합 넣음
-    n3+=4 # 다음층 넘어갈때 점 추가됨
+    nh+=4 # 다음층 넘어갈때 점 추가됨
 
 #-------------------------------------
 ## 배열 곱 함수
