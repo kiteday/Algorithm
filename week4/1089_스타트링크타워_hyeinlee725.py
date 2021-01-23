@@ -4,7 +4,7 @@ input = sys.stdin.readline # 여러 줄 입력받음
 # 스타트링크 타워 층수 N(N은 9보다 작거나 같은 자연수)
 N = int(input())
 
-# 전체 Input 저장(1의 자리(가장 작은 자리)부터 오도록해서 5줄에 걸쳐서 저장)
+# 전체 Input 저장(5줄에 걸쳐서 저장)
 tower = [input()[:-1] for _ in range(5)]
 pos_num = [[]for _ in range(N)] # 가능한 모든 층 번호를 저장할 배열
 num = [set() for _ in range(10)] # 숫자 배열 set
