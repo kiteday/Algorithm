@@ -28,7 +28,7 @@ def checknum(num):
 
     ablecheck=[] #가능한 수 집합
     n=[n0,n1,n2,n3,n4,n5,n6,n7,n8,n9] #0~9 수 집합
-    
+     
     for t in range(0,10): #0~9까지 검사
         flag=0 #0이면 넣고 -1이면 안넣는다.
         for i in range(5): #숫자는 세로5, 바로 끝내기 위하여 3번 반복 안하고 if문 이용
