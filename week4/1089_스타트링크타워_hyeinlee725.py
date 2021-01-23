@@ -47,7 +47,7 @@ def Cal_Average(): # 평균을 계산하는 함수
         for j in v: # value 안에 있을 때
             num += j # 해당 값을 더함
 
-        # 해당 숫자 배열에 배열의 합 * 자릿수만큼한 값을 저장
+        # 해당 숫자 배열에 각각의 값 * 자릿수만큼한 값을 저장
         # 총 value가 몇 개 존재하는지 저장
         sum_list.append([num * (10 ** (N - i - 1)), len(v)])
     
@@ -64,8 +64,7 @@ def Cal_Average(): # 평균을 계산하는 함수
     # (전체 합 / 전체 층 개수) 반환
     return (total_sum / total_floor)
     
-    
-# 입력받는 N개에 숫자에 대해
+# 입력받는 N개의 숫자에 대해
 for i in range(N):
     index = 4 * i # 시작하는 숫자 index 번호에 따라(0 ~ 2, 4 ~ 7 ...)
     check(index, i) # 숫자가 맞는지 check
