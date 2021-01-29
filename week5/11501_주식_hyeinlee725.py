@@ -9,8 +9,8 @@ def sell_stock(): # 원하는만큼 주식을 파는 함수
 
     max_profit = 0 # 각 테스트케이스 별로 최대 이익
 
-    # 리스트 뒤부터 조회
-    for i in range(N - 1, -1, -1): # 시작값, 끝값+1, 단위
+    # 리스트 뒤부터 조회(역순으로 검사)
+    for i in range(N - 1, -1, -1):
         # 현재 날 별 주가가 현재 최댓값보다 크면
         if day_stock[i] > max_stock:
             # 최댓값을 현재 날 별 주가로 변경
