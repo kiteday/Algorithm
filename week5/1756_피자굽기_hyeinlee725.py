@@ -22,7 +22,7 @@ def Pizza_Baking(): # 피자 굽는 함수
         
         # 아래서부터 탐색(오븐 가장 밑(하단)부터 탐색)
         for i in range(depth, -1, -1): # 역순으로 탐색
-            # 오븐에 피자가 들어갈 수 없는 경우
+            # 오븐에 피자가 들어갈 수 있는 경우
             if oven[i] >= pizza[count]:
                 # 다음 위치로 이동
                 result = i+1
