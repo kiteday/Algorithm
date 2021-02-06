@@ -1,4 +1,3 @@
-from collections import deque
 n=int(input()) # 단어의 개수
 #-----------
 '''
