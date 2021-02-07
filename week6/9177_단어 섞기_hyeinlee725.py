@@ -25,7 +25,7 @@ def check(word1, word2, new_word): # 단어를 확인하는 함수
         if (a == l1 and b == l2 and c == ln):
             return True
 
-        # 세 번째 단어의 길이가 첫 번째 단어와 두 번째 단어의 길이의 합이면 True
+        # 세 번째 단어가 첫 번째 단어와 두 번째 단어의 합이면 True
         if (word1 + word2 == new_word or word2 + word1 == new_word):
             return True
 
