@@ -32,7 +32,7 @@ len_m=len(m_list)
 
 if len_m>=2: #숫자 2개 이상일때 (1개이면 구할 필요 X)
     gcd_=gcd(m_list[0],m_list[1])
-    
+
 else: #m이 하나 이상 존재하므로 길이 0이진 않을듯..
     gcd_=m_list[0]
 
@@ -48,18 +48,18 @@ for p in range(2,int(math.sqrt(gcd_))+1):
     if gcd_%p==0: #나누어 떨어짐
         a=p
         b=gcd_//p
-        
-        if a==b: #제곱수
-            factor_list.append(a)
-        else:
+
+        if a==b: #제곱수일 때
+            factor_list.append(a) #하나만 추가
+
+        else: # 제곱수 아님 -> 둘 다 추가
             factor_list.append(a)
             factor_list.append(b)
-        
+
     else:
         continue
 
-if gcd_ not in factor_list:
-    factor_list.append(gcd_) #자기 자신 포함
+factor_list.append(gcd_) #자기 자신 포함, 1을 안넣어서 조건 추가가 필요함.
 factor_list.sort()
 
 for f in factor_list:
