@@ -1,6 +1,6 @@
 a,b=map(int,input().split())
 cnt=0 #연산 횟수 count
-
+ 
 while(b!=a): #같으면 종료
 
     if b%10==1 and b!=1: #마지막 한자리 숫자 검사
