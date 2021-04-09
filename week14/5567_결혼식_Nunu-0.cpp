@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-//[5567] 결혼식
+//[5567] 결혼식 
 int main() {
 	int n, m; // n = 상근이의 동기의 수, m = 리스트의 길이
 	int a, b; // 친구 관계
