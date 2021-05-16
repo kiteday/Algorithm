@@ -22,7 +22,7 @@ for i in lampdict.keys():
     k가 짝수이면 0개수도 짝수거나(다 1로 바꾸고 하나 껐다 켜서 원래로 바꿈)
     k가 홀수이면 0개수도 홀수여야함(하나 켜고 하나 껐다 켬)
     '''
-    elif cnt0<=k and ((k%2==0 and cnt0%2==0) or  (k%2==1 and cnt0%2==1)):
+ elif cnt0<k and k%2 == cnt0%2:
         findmax.append(lampdict[i])#이 행은 모두 켤수있음
 
 
