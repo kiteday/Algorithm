@@ -8,9 +8,7 @@ for i in range(N):
     cnt0 = 0 #0갯수 세기위한 변수
     cnt_row = 0 #동일한 행 개수 세기 위한 변수
     
-    for j in range(M):
-        if lamp[i][j] == 0:
-            cnt0+=1 #0갯수 카운트
+cnt0=lamp[i].count(0)
     
     #램프를 켤수있는 조건 검사
     if cnt0 <= K and cnt0%2 == K%2:
