@@ -1,7 +1,7 @@
 N,M=map(int, input().split()) #N:행, M:열
 lamp=[list(map(int, input())) for _ in range(N)] #램프상태 저장
 K = int(input()) #0~1000
-tmp, result=[], 0
+result=0
 
 
 for i in range(N):
