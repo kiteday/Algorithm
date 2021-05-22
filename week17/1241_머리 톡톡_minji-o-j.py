@@ -27,7 +27,7 @@ for i in range(n):
 hitlist={} 
 for i in numdict.keys(): #친구 머리에 있는 수들
     check=0
-    dlist=devisor(i) #key의 약수 목록
+    dlist=divisor(i) #key의 약수 목록
     for j in dlist: #약수
         if j in numdict: #약수가 친구 머리에 있으면
             check+=numdict[j]
