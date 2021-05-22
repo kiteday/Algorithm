@@ -2,7 +2,7 @@ from sys import stdin
 import math
 
 # 약수 만들기 (직접 나눠주니 시간초과남)
-def devisor(n):
+def divisor(n):
     nlist=set([]) #n의 약수 목록
     for i in range(1,int(math.sqrt(n))+1):
         if n%i==0:
