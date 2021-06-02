@@ -4,7 +4,7 @@ N = int(input())
 board = [list(input().split()) for _ in range(N)]
 loc = [0, 1]
 maxi, mini = -1000000, 1000000
-
+ 
 def dfs(x, y, sum, operator):
     global maxi, mini, board, N, loc
 
