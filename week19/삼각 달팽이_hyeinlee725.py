@@ -5,7 +5,6 @@ def solution(n):
     # 좌표값(처음에 아래로 내려가므로 x는 -1)
     x, y = -1, 0
     cnt = 1
-
     # 달팽이가 반시계 방향으로 회전
     for i in range(n):
         for j in range(i, n):
