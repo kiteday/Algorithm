@@ -1,4 +1,4 @@
-# data, 당해야할 idx, 현재 val
+#[프로그래머스] 타겟 넘버
 def DFS(numbers, loc, sum, target): # 배열, 배열 위치, 합, 타겟 넘버
     global answer
     
