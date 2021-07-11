@@ -11,7 +11,7 @@ for i in range(len(element)):
     # element[stack[-1]이 element[i]보다 작으면
     while i < N and stack and element[stack[-1]] < element[i]:
         # stack을 pop, result에 element값을 넣어줌
-        result[stack.pop()] = element[i]\
+        result[stack.pop()] = element[i]
     # 아니면 i를 stack에 넣어줌
     stack.append(i)
     i += 1
