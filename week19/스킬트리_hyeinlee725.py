@@ -4,7 +4,7 @@ def solution(skill, skill_trees):
         skill_list = []
         check = True
         for j in i:
-            # skill_tress 값이 skill에 있으면 skill_list에 추가
+            # skill_tres 값이 skill에 있으면 skill_list에 추가
             if j in skill:
                 skill_list.append(j)
         for l in range(len(skill_list)):
